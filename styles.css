@@ -1,0 +1,34 @@
+h1 {
+    color: #D5a0ff;
+    font-family: Georgia, serif;
+    font-size: 72px;
+    letter-spacing: -1px;
+    margin-top: 0;
+    margin-bottom: .125em;
+    text-align: center;
+  }
+  
+  p{
+    background: #dbdfdf;
+    line-height: 1.25;
+    margin-bottom: 1.25em;
+  }
+  
+  figure {
+    border: 2px solid black;
+    padding: 12px;
+    padding-bottom: 24px;
+  }
+  
+  figure img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 12px;
+  }
+  
+  p img {
+    float: right;
+    max-width: 25%;
+    margin-left: 20px;
+    margin-bottom: 32px;
+  }
