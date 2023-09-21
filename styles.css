@@ -33,6 +33,19 @@ h1 {
     margin-bottom: 32px;
   }
 
+  a {
+    font-weight: bold;
+    color: mediumaquamarine;
+  }
+
+  ul li a {
+    text-decoration: none;
+  }
+
+  ul li a:hover {
+    text-decoration: underline;
+  }
+ 
   nav ul {
     display: flex;
     justify-content: center;
