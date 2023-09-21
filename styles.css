@@ -32,3 +32,16 @@ h1 {
     margin-left: 20px;
     margin-bottom: 32px;
   }
+
+  a {
+    font-weight: bold;
+    color: #D5a0ff
+  }
+
+  ul li a {
+    text-decoration: none;
+  }
+
+  ul li a:hover {
+    text-decoration: underline;
+  }
