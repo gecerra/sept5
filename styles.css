@@ -32,8 +32,9 @@ h1 {
     margin-left: 20px;
     margin-bottom: 32px;
   }
- 
-  nav ul {
+  a {
+    font-weight: bold;
+    color: mediumaquamarine;
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -43,7 +44,9 @@ h1 {
     border-bottom: 1px solid mediumaquamarine;
   }
 
-  nav ul li a {
+
+  ul li a {
+    text-decoration: none;
     color: mediumaquamarine;
     text-decoration: none;
     padding: 9px;
@@ -53,7 +56,3 @@ h1 {
     letter-spacing: 1px;
   }
 
-  nav ul li a:hover {
-    border-bottom: 3px solid mediumaquamarine;
-    padding-bottom: 6px;
-  }
