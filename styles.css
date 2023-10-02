@@ -1,5 +1,5 @@
 h1 {
-    color: #D5a0ff;
+    color: #5b07a0;
     font-family: Georgia, serif;
     font-size: 72px;
     letter-spacing: -1px;
@@ -35,20 +35,20 @@ h1 {
   
   a {
     font-weight: bold;
-    color: mediumaquamarine;
+    color: rgb(0, 104, 69);
     display: flex;
     justify-content: center;
     gap: 30px;
     list-style: none;
     padding-left: 0;
-    border-top: 1px solid mediumaquamarine;
-    border-bottom: 1px solid mediumaquamarine;
+    border-top: 1px solid rgb(0, 104, 69);
+    border-bottom: 1px solid rgb(0, 104, 69);
   }
 
 
   ul li a {
     text-decoration: none;
-    color: mediumaquamarine;
+    color: rgb(0, 104, 69);
     text-decoration: none;
     padding: 9px;
     display: block;
