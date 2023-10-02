@@ -48,6 +48,7 @@ h1 {
 
   ul li a {
     text-decoration: none;
+    list-style-type: none;
     color: rgb(0, 104, 69);
     text-decoration: none;
     padding: 9px;
