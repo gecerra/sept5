@@ -10,6 +10,8 @@ h1#site-title {
   
   h1#article-title {
     font-size: 48px;
+    color: #5b07a0;
+    font-family: Georgia, serif;
   }
 
   p{
