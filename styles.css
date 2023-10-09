@@ -1,4 +1,4 @@
-h1 {
+h1#site-title {
     color: #5b07a0;
     font-family: Georgia, serif;
     font-size: 72px;
@@ -8,6 +8,10 @@ h1 {
     text-align: center;
   }
   
+  h1#article-title {
+    font-size: 48px;
+  }
+
   p{
     background: #dbdfdf;
     line-height: 1.25;
