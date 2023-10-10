@@ -26,7 +26,7 @@ h1#site-title {
   }
   
   figure img {
-    width: 75%;
+    width: 100%;
     height: auto;
     margin-bottom: 12px;
   }
@@ -39,7 +39,7 @@ h1#site-title {
   
   figure.section-image{
     margin-bottom: 32px;
-    max-width: 320px;
+    max-width: 180px;
   }
 
   figure.section-image.odd{
