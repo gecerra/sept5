@@ -30,7 +30,27 @@ h1#site-title {
     height: auto;
     margin-bottom: 12px;
   }
+
+  figure.main-image {
+    background:rgb(0, 104, 69);
+    border-color:rgb(93, 110, 104);
+    color: white;
+  }
   
+  figure.section-image{
+    margin-bottom: 32px;
+    max-width: 320px;
+  }
+
+  figure.section-image.odd{
+    float: right;
+    margin-left: 20px;
+  }
+
+  figure.section-even{
+    float: left;
+    margin-right: 20px;
+  }
   p img {
     float: right;
     max-width: 25%;
