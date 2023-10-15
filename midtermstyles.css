@@ -19,7 +19,7 @@ ul {
   
   .header img {
     float: left;
-    width: 1045px;
+    width: auto;
     height: 235px;
     background: #555;
   }
