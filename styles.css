@@ -128,6 +128,11 @@ figure.section-image {
   a {
    display: flex;
     gap: 30px;}
+
+    figure.section-image.odd{
+      float: right;
+      margin-left: 20px;
+    }
 }
 
 @-ms-viewport{
